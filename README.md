@@ -10,7 +10,8 @@ In this project, a query on Google is run based on a Whatsapp message sent to a 
 
 ### Whatsapp message and response example
 
-![example.png](example.jpg)
+[<img src="example.jpg" width="300"/>](example.jpg)
+
 
 ## Extras
 
